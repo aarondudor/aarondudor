@@ -1,7 +1,7 @@
 Hi 👋 My name is Aaron Dudor
 ============================
 
-Front End Developer
+Software Developer
 -------------------
 
 * 🌍  I'm based in Madison, WI
