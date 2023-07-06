@@ -5,7 +5,7 @@ Software Developer
 -------------------
 
 * 🌍  I'm based in Madison, WI
-* 🖥️  See my portfolio at [Aaron Dudor](http://aarondudor.com)
+* 🖥️  See my portfolio at [Aaron Dudor](http://www.aarondudor.dev)
 * ✉️  You can contact me at [aarondudor@gmail.com](mailto:aarondudor@gmail.com)
 * 🧠  I'm learning React & Tailwind
 
